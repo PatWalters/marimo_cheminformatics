@@ -28,7 +28,7 @@ uv pip install -e .
 3. Install marimo
 The marimo docs provide example of how to install marimo with [pip](https://docs.marimo.io/#__tabbed_1_1),
 [uv](https://docs.marimo.io/#__tabbed_1_2), or [conda](https://docs.marimo.io/#__tabbed_1_3).
-All you really have to do is this.
+All you really have to do is this.    
 ```uv pip install marimo```
 
 ### Running the notebooks
