@@ -28,10 +28,10 @@ git clone https://github.com/PatWalters/marimo_cheminformatics.git
 2. Create an environment and install the necessary libraries.
 Not using [uv](https://docs.astral.sh/uv/) yet? Here's a [great tutorial](https://realpython.com/python-uv/) explaining why you should. 
 ```bash
-uv venv marimo_cinf --python 3.11
-source marimo_cinf/bin/activate
+uv venv mo_cinf --python 3.11
+source mo_cinf/bin/activate
 cd marimo_cheminformatics
-uv pip install -r requirements.txt
+uv sync
 ```
 3. Install marimo
 The marimo docs provide example of how to install marimo with [pip](https://docs.marimo.io/#__tabbed_1_1),
