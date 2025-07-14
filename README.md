@@ -37,10 +37,10 @@ The notebooks can be run with `marimo edit notebook.py`, where `notebook.py` is 
 ### The current collection
 This repo currently contains a few notebooks demonstrating how to use marimo for cheminformatics. I'll continue add notebooks. If you have an interesting marimo chemistry notebook, please submit a PR.
 
-- smarts_view.py - a simple interactive viewer for SMILES and SMARTS
-- reos_view.py - a viewer for functional group filters
-- chem_view.py - interactive viewing of a projected t-SNE space
-- ml_view.py - interactive viewing of machine learning model performance
+- ```smarts_view.py``` - a simple interactive viewer for SMILES and SMARTS
+- ```reos_view.py``` - a viewer for functional group filters
+- ```chem_view.py``` - interactive viewing of a projected t-SNE space
+- ```ml_view.py``` - interactive viewing of machine learning model performance
 
 ### Changes and fixes are appreciated
 If you come across and error or a typo, please file an issue or submit a PR.  In addtion, if you have improvements to these notebooks, please submit a PR. I'd love it if we could make this repo a place to share how marimo can facilitate cheminformatics analyses.
