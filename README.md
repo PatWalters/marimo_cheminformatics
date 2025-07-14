@@ -16,8 +16,10 @@ For those who prefer videos, these are excellent.
 - [Marimo Notebooks Intro | Charting Python's rise in popularity](https://www.youtube.com/watch?v=XoArtLKPJ2I)
 
 ### Installation
-1. Clone this repo.      
+1. Clone this repo.
+
 ```git clone git@github.com:PatWalters/marimo_cheminformatics.git```
+
 2. Create an environment and install the necessary libraries.
 Not using [uv](https://docs.astral.sh/uv/) yet? Here's a [great tutorial](https://realpython.com/python-uv/) explaining why you should. 
 ```uv venv marimo_cinf --python 3.11
