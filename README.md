@@ -22,7 +22,8 @@ For those who prefer videos, these are excellent.
 
 2. Create an environment and install the necessary libraries.
 Not using [uv](https://docs.astral.sh/uv/) yet? Here's a [great tutorial](https://realpython.com/python-uv/) explaining why you should. 
-```uv venv marimo_cinf --python 3.11
+```
+uv venv marimo_cinf --python 3.11
 source marimo_conf/bin/activate
 cd marimo_marimocheminformatics
 uv pip install -e .
