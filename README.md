@@ -1,5 +1,5 @@
 # marimo_cheminformatics
-Practical Cheminformatics with Marimo
+# Practical Cheminformatics with Marimo
 
 The notebooks in this repo show some examples of how to use marimo notebooks as a tool for cheminformatic analysis. Marimo is often referred to as a "better Jupyter notebook". I've found two primary advantages of marimo over Jupyter.
 - Marimo is reactive, changes to a variable in one cell will be updated all other cells containing that variable.
