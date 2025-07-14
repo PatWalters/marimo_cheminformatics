@@ -5,7 +5,7 @@ The notebooks in this repo show some examples of how to use marimo notebooks as 
 - Marimo is reactive, changes to a variable in one cell will be updated all other cells containing that variable.
 - Marimo contains several native GUI components that can be integrated to easily generate interactive analyses. 
 
-For more information on marimo, I'd recommend these tutorials.
+For more information on marimo, I'd recommend these tutorials and references.
 - [Marimo's getting started docs](https://docs.marimo.io/getting_started/)
 - [Marimo FAQ](https://docs.marimo.io/faq/)
 - [Marimo article in Real Python](https://realpython.com/marimo-notebook/)
