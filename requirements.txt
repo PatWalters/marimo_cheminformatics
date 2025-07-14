@@ -1,0 +1,5 @@
+marimo
+altair
+pandas
+scikit-learn
+rdkit-pypi
