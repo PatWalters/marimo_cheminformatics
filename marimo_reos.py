@@ -8,8 +8,8 @@ app = marimo.App(width="medium")
 def _(mo):
     mo.md(
         r"""
-    ## REOS in a Marimo Notebook
-    This notebook provides a quick overview of how the [Rapid Elimination of Swill (REOS)](https://practicalcheminformatics.blogspot.com/2018/08/filtering-chemical-libraries.html) filters can be run in a Marimo notebook.  We'll take a look at how the [useful_rdkit_utils](https://patwalters.github.io/Useful-RDKit-Utils/) library and Marimo's radio button capability can be used to create a quick interactive viewer.
+    ## REOS in a [marimo]() Notebook
+    This notebook provides a quick overview of how the [Rapid Elimination of Swill (REOS)](https://practicalcheminformatics.blogspot.com/2018/08/filtering-chemical-libraries.html) filters can be run in a Marimo notebook.  We'll take a look at how the [useful_rdkit_utils](https://patwalters.github.io/Useful-RDKit-Utils/) library and marimo's [radio button]](https://docs.marimo.io/api/inputs/radio/)capability can be used to create a quick interactive viewer.
     """
     )
     return
