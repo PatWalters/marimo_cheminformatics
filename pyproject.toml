@@ -1,0 +1,13 @@
+[project]
+name = "marimo_cheminformatics"
+version = "0.1.0"
+description = "Example cheminformatics workflows with marimo"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "altair>=5.5.0",
+    "marimo>=0.14.10",
+    "pandas>=2.3.1",
+    "rdkit>=2025.3.3",
+    "scikit-learn>=1.7.0",
+]

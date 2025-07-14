@@ -29,7 +29,7 @@ git clone https://github.com/PatWalters/marimo_cheminformatics.git
 Not using [uv](https://docs.astral.sh/uv/) yet? Here's a [great tutorial](https://realpython.com/python-uv/) explaining why you should. 
 ```bash
 uv venv marimo_cinf --python 3.11
-source marimo_conf/bin/activate
+source marimo_cinf/bin/activate
 cd marimo_cheminformatics
 uv pip install -r requirements.txt
 ```
