@@ -1,6 +1,16 @@
 # marimo_cheminformatics
 Practical Cheminformatics with Marimo
 
+The notebooks in this repo show some examples of how to use marimo notebooks as a tool for cheminformatic analysis. Marimo is often referred to as a "better Jupyter notebook". I've found two primary advantages of marimo over Jupyter.
+- Marimo is reactive, changes to a variable in one cell will be updated all other cells containing that variable.
+- Marimo contains several native GUI components that can be integrated to easily generate interactive analyses. 
+
+For more information on marimo, I'd recommend these tutorials.
+- [Marimo's getting started docs](https://docs.marimo.io/getting_started/)
+- [Marimo FAQ](https://docs.marimo.io/faq/)
+- [Marimo article in Real Python](https://realpython.com/marimo-notebook/)
+
+
 ### Installing marimo
 The marimo docs provide example of how to install marimo with [pip](https://docs.marimo.io/#__tabbed_1_1),
 [uv](https://docs.marimo.io/#__tabbed_1_2), or [conda](https://docs.marimo.io/#__tabbed_1_3).
