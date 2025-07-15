@@ -32,14 +32,6 @@ cd marimo_cheminformatics
 uv sync
 source .venv/bin/activate
 ```
-3. Install marimo
-The marimo docs provide example of how to install marimo with [pip](https://docs.marimo.io/#__tabbed_1_1),
-[uv](https://docs.marimo.io/#__tabbed_1_2), or [conda](https://docs.marimo.io/#__tabbed_1_3).
-All you really have to do is this.
-
-```bash
-uv pip install marimo
-```
 
 ## Running the notebooks
 The notebooks can be run with `marimo edit notebook.py`, where `notebook.py` is the placehold for the notebook you want to run.
