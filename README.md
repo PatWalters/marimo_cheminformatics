@@ -28,10 +28,9 @@ git clone https://github.com/PatWalters/marimo_cheminformatics.git
 2. Create an environment and install the necessary libraries.
 Not using [uv](https://docs.astral.sh/uv/) yet? Here's a [great tutorial](https://realpython.com/python-uv/) explaining why you should. 
 ```bash
-uv venv mo_cinf --python 3.11
-source mo_cinf/bin/activate
 cd marimo_cheminformatics
 uv sync
+source .venv/bin/activate
 ```
 3. Install marimo
 The marimo docs provide example of how to install marimo with [pip](https://docs.marimo.io/#__tabbed_1_1),
@@ -40,19 +39,6 @@ All you really have to do is this.
 
 ```bash
 uv pip install marimo
-```
-
-## Dependencies
-This project requires the following libraries:
-* marimo
-* altair
-* pandas
-* scikit-learn
-* rdkit
-
-You can install these with the following command.
-```bash
-uv pip install marimo altair pandas scikit-learn rdkit-pypi
 ```
 
 ## Running the notebooks
