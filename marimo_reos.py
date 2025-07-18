@@ -1,3 +1,12 @@
+# /// script
+# requires-python = ">=3.8"
+# dependencies = [
+#   "marimo",
+#   "pandas==2.3.1",
+#   "rdkit==2025.3.3",
+#   "useful-rdkit-utils==0.89",
+# ]
+# ///
 import marimo
 
 __generated_with = "0.14.10"

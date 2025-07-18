@@ -51,11 +51,12 @@ def altair_regression_plot(data, x_col, y_col):
 
     # Layer the charts
     chart = scatter + band + line
+    return chart
     
     # Save the chart to an HTML file
-    chart.save('regression_plot.html')
+    #chart.save('regression_plot.html')
     
-    print("Regression plot saved to regression_plot.html")
+    #print("Regression plot saved to regression_plot.html")
 
 if __name__ == "__main__":
     demo_df = generate_demo_data()
